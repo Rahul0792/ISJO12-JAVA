@@ -20,6 +20,7 @@ public class Demo1 {
         Interface1 traditional = new A();
         traditional.m1();
 
+
 //  2 Annonymous  way  Method --  1
          new Interface1() {
             @Override
